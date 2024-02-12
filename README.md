@@ -10,7 +10,7 @@ At the end of the this hands-on training, students will be able to;
 
 - get familiar with Python Flask framework.
 
-- install Python and Flask framework on local
+- install Python and Flask framework on local.
 
 - build a simple web application with Python Flask framework.
 
@@ -52,9 +52,9 @@ Followings are some of features of Flask Framework;
 
 - Create folder named `flask-01-02-hello-world-app-Jinja-Template` within your repo under `python/hands-on` folder and go under it.
 
-- Create folder named `flask-01-hello-world-app`
+- Create folder named `flask-01-hello-world-app`.
 
-- Create python file named `hello-world-app.py`
+- Create python file named `hello-world-app.py`.
 
 - Import Flask module.
 
@@ -70,24 +70,24 @@ Followings are some of features of Flask Framework;
 
 - Create a dynamic url which takes id number dynamically and return with a massage which show id of page.
 
-- run the application in debug mode
+- run the application in debug mode.
 
-- Connect the Hello World application from the web browser with `localhost:5000` or `127.0.0.1:5000`
+- Connect the Hello World application from the web browser with `localhost:5000` or `127.0.0.1:5000`.
 
-- to reach application from anywhere on port 80, change debug mode
+- to reach application from anywhere on port 80, change debug mode.
 
 - Save the complete code as `hello-world-app.py` file under `hands-on/flask-01-02-hello-world-app-Jinja-Template/flask-01-hello-world-app` folder.
 
-- Add and commit all changes on local repo
+- Add and commit all changes on local repo.
 
-- Push `hello-world-app.py` to your remote repo
+- Push `hello-world-app.py` to your remote repo.
 
 
 ## Part 3 - Write a Simple Hello World Web Application with Jinja template on GitHub Repo
 
-- Create folder named `flask-02-Jinja_Template` within your repo under `python/hands-on` and go under it
+- Create folder named `flask-02-Jinja_Template` within your repo under `python/hands-on` and go under it.
 
-- Create python file named `jinja.py`
+- Create python file named `jinja.py`.
 
 - Import Flask and render_template modules.
 
@@ -101,13 +101,13 @@ Followings are some of features of Flask Framework;
 
 - Create a function named `number` which sends number `num1` and `num2` and sum of them to the `index.html`. Use these variables into the `body.html` file. Assign a URL route the `number` function with decorator `@app.route('/sum')`.
 
-- run the application in debug mode
+- run the application in debug mode.
 
-- Connect the Hello World application from the web browser with `localhost:5000` or `127.0.0.1:5000`
+- Connect the Hello World application from the web browser with `localhost:5000` or `127.0.0.1:5000`.
 
 - Save the complete code as `jinja.py` file under `flask-02-Jinja_Template` folder.
 
-- Add and commit all changes on local repo
+- Add and commit all changes on local repo.
 
 - Push all files to your remote repo on GitHub.
 
